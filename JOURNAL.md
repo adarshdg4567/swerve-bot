@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/1/2025 - Create a swerve drive  
+## 11/1/2025 11 AM - Create a swerve drive  
 
 The integration of odometry into a swerve drive module was the main focus of this novel concept.  To investigate how the parts wheels, gears, and motors could be arranged effectively, I started by sketching out various design concepts.  Finding a small, practical layout that could precisely track orientation and movement was the aim.
 
@@ -17,5 +17,12 @@ The integration of odometry into a swerve drive module was the main focus of thi
 
 
 ![drawings_3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--91f538ff873e0c123169c0bf82a8d3a2b667b64d/drawings_3.jpeg)
+  
+
+## 11/1/2025 12 PM - I assembled the prototype  
+
+I assembled the prototype. It worked pretty well. I had to fix some dimensions in the cad. I caded a bigger prototype that had more gears. I basically made one module of the swerve drivetrain. I also researched about the motors I was going to use. I wanted to have encoder to be more precise.
+
+![prototype1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b76e9509bef202db110695a8919f1f86c7a27f3/prototype1.jpeg)
   
 
