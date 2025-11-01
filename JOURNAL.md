@@ -8,9 +8,9 @@
 
 ## 11/1/2025 11 AM - Create a swerve drive  
 
-The integration of odometry into a swerve drive module was the main focus of this novel concept.  To investigate how the parts wheels, gears, and motors could be arranged effectively, I started by sketching out various design concepts.  Finding a small, practical layout that could precisely track orientation and movement was the aim.
+The primary goal of this new idea was to put odometry into a swerve drive module. To choose the best setups for the wheels, gears, and motors, I began by sketching out a few design ideas. The goal was to find a small but useful layout that could track movement 
+I selected the most promising configuration and moved forward with CAD modeling after going through many revisions and rough drafts, some of which are shown in the sketches below. The CAD phase took the longest since I had to carefully test different gear sizes and locations for smooth motion and low backlash.
 
- Following a number of iterations and rough drafts (some of which can be seen in the above sketches), I decided on the most promising configuration and proceeded with CAD modelling.  Because I had to carefully test various dimensions and gear placements to ensure smooth motion and minimal backlash, the CAD phase took the longest.
 ![drawings_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b8c1776badceed69f0e34ed3744d30e3793d3f30/drawings_1.jpeg)
 
 ![drawings_2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--cd630e7f3a6df10ed31bbf5682e3c81627c0102a/drawings_2.jpeg)
