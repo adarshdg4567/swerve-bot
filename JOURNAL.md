@@ -26,3 +26,15 @@ I assembled the prototype. It worked pretty well. I had to fix some dimensions i
 ![prototype1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b76e9509bef202db110695a8919f1f86c7a27f3/prototype1.jpeg)
   
 
+## 11/1/2025 8 PM - testing the printed prototype today  
+
+The second prototype was tested today, and it worked incredibly well, moving more smoothly and having better control than the first. After that, I spent the majority of the day cadding the entire robot, which took some time because it was difficult to get every joint to function correctly. Everything came together nicely after the constraints were established. Seeing the bot steer and move virtually was incredibly satisfying and made the effort worthwhile. The animation also looked fantastic.
+
+![cad_side](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--90094dbd0e081e5b9ea9cb42ce42e89d3daa14df/cad_side.png)
+![cad_cover](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--979c32f12b143912b8ddb900683d31429c58e61a/cad_cover.png)
+![cad_bottom](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxNywicHVyIjoiYmxvYl9pZCJ9fQ==--75b940ca752c5196e0fd5c28d9a2d6e7019bc6cf/cad_bottom.png)
+![cad_above](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--59311bcce26363caab73c5a6ff2930561d07e489/cad_above.png)
+![prototype2bottom](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--57c05fc02b269f83948dad0a3769e2de401a62ad/prototype2bottom.jpeg)
+![prototype2above](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1121e60dbce62febb40e3ce0415f35838312cbc9/prototype2above.jpeg)
+  
+
